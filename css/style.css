@@ -43,7 +43,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    transition: opacity 250ms linear;
+    transition: opacity 250ms linear, visibility 250ms linear;
 }
 
 .is-hidden {
